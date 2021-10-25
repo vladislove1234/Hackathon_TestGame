@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab8fa93e9124463699d0c82f286af57, type: 3}
+  m_Name: 7.62 bullet
+  m_EditorClassIdentifier: 
+  _id: 1
+  _name: 7.62 bullets
+  _description: 
+  _inventorySprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _dropSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _useSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _maxStackCount: 60
