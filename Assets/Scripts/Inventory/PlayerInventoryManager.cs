@@ -145,7 +145,7 @@ public class PlayerInventoryManager : MonoBehaviour, IInventory, IItemUser
 
     public void SetMultiplier()
     {
-        throw new NotImplementedException();
+        
     }
 
     public void SwapItem()
